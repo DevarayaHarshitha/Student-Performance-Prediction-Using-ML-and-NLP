@@ -13,3 +13,5 @@ Pie chart: Distribution of performance levels
 Matrix: Actual vs Predicted comparison
 ✅ Conclusion
 An interactive Power BI dashboard that visualizes and predicts student performance patterns to support better educational insights.
+
+And I have done the same project using both Google Colab and Power BI.
